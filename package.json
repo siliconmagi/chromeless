@@ -1,0 +1,14 @@
+{
+  "name": "chromeless",
+  "version": "0.0.1",
+  "description": "chromeless commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "lol"
+  },
+  "author": "siliconmagi",
+  "license": "MIT",
+  "dependencies": {
+    "chromeless": "^1.2.0"
+  }
+}
